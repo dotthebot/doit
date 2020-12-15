@@ -1,2 +1,2 @@
-# doit
-My official repository!
+# dot
+> Coming soon...
